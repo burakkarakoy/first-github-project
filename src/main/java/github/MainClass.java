@@ -6,5 +6,6 @@ package main.java.github;
 public class MainClass {
     public static void main(String[] args) {
         System.out.println("GITHUB PROJECT");
+        System.out.println("SECOND COMMIT");
     }
 }
